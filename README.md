@@ -1,2 +1,2 @@
 # websks
-web portofolio sederhana
+Web Pejuang SKS
